@@ -1,5 +1,5 @@
 import './App.css'
-import Main from './39-middleware/1-simpleReduxMiddleware/Main'
+import Main from './39-middleware/2-redux-thunk/Main'
 function App() {
   return (
     <div className='App'>
