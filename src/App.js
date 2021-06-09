@@ -1,5 +1,5 @@
 import './App.css'
-import Main from './37-fetchDataWithSuspense/Main'
+import Main from './38-memo/Main'
 function App() {
   return (
     <div className='App'>
