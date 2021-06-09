@@ -1,5 +1,5 @@
 import './App.css'
-import Main from './36-googleMapInReact/Main'
+import Main from './37-fetchDataWithSuspense/Main'
 function App() {
   return (
     <div className='App'>
